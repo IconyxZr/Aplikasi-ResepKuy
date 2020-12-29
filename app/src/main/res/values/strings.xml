@@ -1,0 +1,372 @@
+<resources>
+    <string name="app_name">ResepKuy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_resep_minuman">Resep Minuman</string>
+
+    <string name="soto">
+        Bahan-Bahan : \n
+- 500 gram daging sandung lamur \n
+- 2.000 ml air \n
+- 200 gram babat, rebus, potong 2x2 cm \n
+- 200 gram paru, direbus, potong 2x2 cm \n
+- 3 sendok makan kecap \n
+- 3 cm kayu manis \n
+- 1 sendok teh pala bubuk \n
+- 4 butir cengkeh \n
+- 3 batang serai, memarkan \n
+- 2 cm lengkuas, memarkan \n
+- 5 lembar daun jeruk, dibuang tulang daunnya \n
+- 2 lembar daun salam \n
+- 4 sendok teh garam \n
+- 1/2 sendok teh gula \n
+- 1/2 sendok teh merica bubuk \n
+- 500 ml santan dari 1 butir kelapa \n
+- 2 sendok makan minyak untuk menumis \n\n
+
+Bumbu Halus : \n
+- 12 butir bawang merah \n
+- 6 siung bawang putih \n
+- 3 butir kemiri, disangrai \n
+- 2 cm jahe \n
+- 1 sendok teh ketumbar bubuk \n\n
+
+Bahan Pelengkap : \n
+- 2 buah tomat merah, potong-potong \n
+- 2 batang daun bawang, iris halus \n
+- 4 sendok makan bawang merah goreng \n
+- 50 gram emping goreng \n
+- 4 buah jeruk nipis \n\n
+
+Cara Membuat : \n
+1. Rebus air dan daging sampai matang. \n
+2. Ambil kaldunya 1.750 ml. Didihkan lagi bersama daging, babat, dan paru. \n
+3. Panaskan minyak. Tumis bumbu halus, kayumanis, pala bubuk, cengkeh, serai, lengkuas, daun jeruk, dan daun salam sampai harum. \n
+4. Tuang ke rebusan daging. Didihkan lagi. \n
+5. Masukkan santan, Kecap , garam, merica bubuk, dan gula pasir. \n
+6. Masak sampai matang. Sajikan dengan pelengkap
+    </string>
+
+    <string name="mie">
+        Bahan-Bahan : \n
+- 1 bungkus (2 potong) mie telur kering \n
+- 5 butir kemiri sangrai \n
+- 4 siung bawang putih \n
+- 2 sendok makan kecap \n
+- 1/4 sendok teh lada putih bubuk \n
+- 1/4 sendok teh garam \n
+- 1 sendok teh gula pasir \n
+- 5 butir bakso sapi, potong \n
+- 100 gram udang pancet atau udang galah kupas \n
+- 200 gram kol, potong \n
+- 200 gram sawi hijau / caisim, potong-potong \n
+- 2 tangkai daun bawang, potong bulat 1 cm \n
+- 1 tangkai daun seledri, potong kasar \n
+- 1 bungkus Royco sapi \n
+- 2 butir telur ayam, kocok lepas \n
+- 5 sendok makan minyak goreng \n\n
+
+Cara Membuat : \n
+1. Tumis bumbu halus hingga harum dan matang betul. \n
+2. Kemudian masukkan bakso, udang, tumis hingga berubah warna lalu tambahkan telur. \n
+3. Setelah telur matang, masukkan sayuran, Royko, garam, dan gula. \n
+4. Tambahkan mie dan kecap. Aduk hingga bumbu merata dengan mie.
+    </string>
+
+    <string name="opor">
+        Bahan-Bahan : \n
+- 8 ekor paha ayam bawah \n
+- 4 lembar daun jeruk, dibuang tulangnya \n
+- 2 lembar daun salam \n
+- 2 batang serai, diambil putihnya, dimemarkan \n
+- 3 lembar bunga kecombrang, iris \n
+- 3 1/2 sendok makan Kecap \n
+- 2 3/4 sendok teh garam \n
+- 1/2 sendok teh merica bubuk \n
+- 1/2 sendok teh gula \n
+- 1.000 ml santan dari 1 butir kelapa \n
+- 2 sendok makan minyak untuk menumis \n\n
+
+Bumbu Halus:
+- 8 siung bawang merah \n
+- 4 siung bawang putih \n
+- 5 butir kemiri goreng \n
+- 2 cm jahe \n
+- 1/4 sendok teh jinten \n
+- 1 sendok teh ketumbar \n\n
+
+Cara Membuat : \n
+1. Tumis bumbu halus, daun jeruk, daun salam, dan serai sampai harum. \n
+2. Masukkan ayam. Aduk hingga berubah warna. \n
+3. Tambahkan bunga kecombrang, Kecap , garam, gula, dan merica. Aduk rata. \n
+4. Tuang santan sedikit-sedikit. Masak sambil diaduk sampai matang.
+    </string>
+
+    <string name="selat">
+        Bahan-Bahan : \n
+500 gram daging has dalam utuh \n
+5 butir bawang merah, iris tipis \n
+1 buah tomat, potong-potong \n
+3 sendok makan Kecap \n
+1 sendok makan kecap inggris \n
+1 sendok teh pala bubuk \n
+1/2 sendok teh garam \n
+1.000 ml air \n
+3 sendok makan margarin, untuk menumis \n\n
+
+Bumbu Perendam (aduk Rata) : \n
+1/2 sendok teh pala bubuk \n
+2 sendok makan Kecap \n\n
+
+Bahan Saus : \n
+- 4 butir telur, rebus, ambil bagian kuningnya, haluskan \n
+- 1/4 sendok teh garam \n
+- 1/4 sendok teh merica bubuk \n
+- 1/2 sendok teh gula pasir \n
+- 1/2 sendok teh cuka \n
+- 1/4 sendok teh mustard \n
+
+Bahan Acar : \n
+- 1 butir telur, rebus, ambil bagian kuningnya, haluskan \n
+- 50 gram ketimun, buang biji, potong kotak 1x1 cm \n
+- 50 gram wortel, potong kotak 1x1 cm \n
+- 2 butir bawang merah, potong 2 bagian \n
+- 1/2 sendok teh garam \n
+- 1 sendok teh gula pasir \n
+- 1 sendok teh cuka \n
+
+Pelengkap : \n
+- 50 gram buncis, potong 3 cm, rebus \n
+- 75 gram wortel, potong 3 cm, rebus \n
+- 200 gram kentang, potong wedges, goreng berkulit \n
+- telur, rebus, potong-potong \n\n
+
+Cara Membuat : \n
+1. Lumuri daging dengan bumbu perendam. Diamkan 1 jam dalam lemari es. \n
+2. Acar: campur rata kuning telur, ketimun, wortel, dan bawang merah. Tambahkan garam, gula pasir, dan cuka. Aduk  rata. Diamkan 2 jam dalam lemari es. \n
+3. Panaskan margarin. Masukkan daging yang sudah direndam. Aduk sampai berubah warna. Angkat lalu potong tebal 1cm. Sisihkan. \n
+4. Panaskan sisa margarin. Masukkan bawang merah. Tumis sampai harum. Tambahkan tomat. Aduk sampai layu. \n
+5. Tuang air. Masak sampai mendidih. Masukkan potongan daging, Kecap , kecap inggris, dan pala bubuk. Aduk rata. \n
+6. Rebus sampai matang dan bumbu meresap. \n
+7. Saus, aduk rata telur, garam,merica bubuk, gula pasir, cuka, dan mustard.\n
+8. Sajikan selat solo dengan acar, saus, dan pelengkapnya. \n
+    </string>
+
+    <string name="sop">
+        Bahan-Bahan : \n
+- 750 gram buntut sapi \n
+- 3.000 ml air \n
+- 2 bauh wortel, potong bulat \n
+- 2 buah kentang, potong kotak \n
+- 2 sendok makan kecap \n
+- 1 sendok teh pala bubuk \n
+- 3 cm kayumanis \n
+- 2 butir cengkeh \n
+- 1 1/2 sendok makan garam \n
+- 1/2 sendok makan gula pasir \n
+- 2 batang daun bawang, dipotong 1 cm \n
+- 2 sendok makan minyak untuk menumis \n\n
+
+Bumbu Halus : \n
+- 8 butir bawang merah \n
+- 3 siung bawang putih \n
+- 1 sendok teh merica butiran \n\n
+
+Bahan Pelengkap : \n
+- 100 gram emping goreng \n
+- 2 sendok makan bawang goreng \n
+- 1 buah tomat merah, potong – potong \n\n
+
+Cara Membuat : \n
+1. Presto buntut sapi dalam air sampai empuk. \n
+2. Saring dan ukur air kaldunya 2.500 ml. Didihkan lagi. Tambahkan buntut sapi. \n
+3. Panaskan minyak. Tumis bumbu halus, pala bubuk, kayumanis, dan cengkeh sampai harum. \n
+4. Masukkan ke dalam rebusan buntut. Tambahkan kecap , garam dan gula pasir. Masak sampai mendidih. \n
+5. Masukkan wortel dan kentang. Masak sampai matang. Tambahkan daun bawang. Aduk rata. \n
+6. Sajikan bersama pelengkap.
+    </string>
+
+    <string name="bakso">
+        Bahan-Bahan Bakso: \n
+- 500 g daging sapi giling \n
+- 1sdt merica putih bubuk \n
+- 250 g bawang putih, haluskan \n
+- 50 g es batu \n
+- 1 butir telur ayam \n
+- 100 g tepung kanji \n
+- 2 L air, didihkan \n\n
+
+Kuah : \n
+- 250 g bawang putih, haluskan \n
+- 2 sdm garam \n
+- 1 sdm gula \n
+- 1 sdt merica putih bubuk \n
+- 1 sdt pala bubuk \n
+- 500 g kaki sapi \n
+- 3 L air \n\n
+
+Pelengkap : \n
+- 150 g bihun, rebus, tiriskan \n
+- 2 batang daun seledri, iris halus \n
+- 2 sdm bawang merah goreng \n
+- 3 sdm Kecap \n\n
+
+Cara Membuat : \n
+1. Masukkan semua bahan bakso kecuali tepung kanji dan air. Proses hingga halus. \n
+2. Pindahkan adonan ke dalam wadah. Masukkan tepung kanji, aduk rata. \n
+3. Ambil 1 sdm adonan, bentuk bulat. Ulangi hingga adonan habis. \n
+4. Rebus bakso di dalam air mendidih. Masak hingga bakso mengapung. Angkat, tiriskan. \n
+5. Tata bihun di dalam mangkuk saji. Tambahkan beberapa butir bakso. \n
+6. Siram dengan kuah. Taburi dengan daun seledri dan bawang merah goreng.
+    </string>
+
+    <string name="ronde">
+        Bahan-Bahan : \n
+- 200 gr tepung ketan putih \n
+- 1 sdm tepung kanji \n
+- air secukupnya \n
+- gula jawa secukupnya \n
+- 1 sdm gula pasir \n
+- 50 gr kacang tanah kupas sangrai \n
+
+Kuah : \n
+- 5 gelas air \n
+- 5 ruas jahe \n
+- 1 batang sere \n
+- air gula untuk rendaman : \n
+- 3 sdm gula pasir \n
+- 1 butir gula jawa \n
+- air direbus hingga mendidih \n\n
+
+Cara Membuat : \n
+1. Isian: haluskan kacang campur dengan gula yg dihancurkan. \n
+2. Masukan dalam wadah, tepung ketan + sagu + air lalu uleni. \n
+3. Lalu bentuk isi dengan gula kacang tadi, Rebus dalam air. \n
+4. Angkat dan masukan ke rendaman air gula. \n
+5. Untuk kuah: sangrai jahe, geprek rebus dengan gula merah dan serai. \n
+6. Masak hingga mendidih lalu siram ke isian.
+    </string>
+
+    <string name="jahe">
+        Bahan-Bahan : \n
+- 1/4 kg jahe putih atau merah \n
+- 1/4 kg gula merah atau gula jawa atau gula aren \n
+- Kayu manis secukupnya \n
+- 2 liter air \n
+- Gula putih secukupnya \n
+- Madu secukupnya\n
+- 1 lembar serai ambil putihnya saja \n
+- 1 sdt garam \n\n
+
+Cara Membuat : \n
+1. Cuci sampi bersih jahe lalu bakar sebentar saja sampai harum. \n
+2. Kupas jahe dan potong kecil2 atau boleh diparut. \n
+3. Rebus air, masukan jahe dan kayu manis.
+4. Didihkan selama 20 menit dengan api sedang. \n
+5. Jika sudah mendidih masukan gula merah dan garam. \n
+6. Angkat dan siap dihidangkan.
+    </string>
+
+    <string name="sekoteng">
+        Bahan-Bahan : \n
+- 1 genggam mutiara rebus \n
+- 1 genggam kacang hijau rebus sampai empuk \n
+- 1 lembar roti tawar(sesuai selera) potong dadu \n
+- 1 genggam kacang tanah sangrai kupas \n
+- 2 ruas jahe bakar \n
+- 5 cm kayu manis \n
+- 2 btr kapu laga \n
+- 2 lembar pandan \n
+- gula merah secukupnya \n
+- gulpas secukupnya \n
+- air secukupnya \n\n
+
+Cara Membuat : \n
+1. Rebus jahe bakar, kayu manis, kapulaga, gula merah, gula pasir, pandan sampai mendidih dan harum. \n
+2. Manisnya sesuaikan dengan selera, jika kurang pedas bisa tambahkan jahe. \n
+3. Racik mutiara,kacang hijau,roti tawar,kacang tanah sangrai dalam gelas/mangkok. \n
+4. Tuang air jahe, siap disajikan. \n
+    </string>
+
+    <string name="dawet">
+        Bahan-Bahan : \n
+- 7 sdm tepung beras \n
+- 3 sdm tepung maizena \n
+- 12 lembar daun pandan (essence pandan) \n
+- 4 gelas air \n
+1 bungkus santan kara kecil \n
+- 300 ml air \n
+- garam secukupnya \n
+- 2 buah gula merah bulat \n
+- 1 sdm gula putih \n
+- 1 lembar daun pandan, ikat \n
+- es batu secukupnya \n\n
+
+Cara Membuat : \n
+1. Blender tepung beras, tepung maizena, air dan daun pandan(disaring airnya). \n
+2. Campur bahan dawet di dalam panci. \n
+3. Panaskan dengan api kecil, aduk-aduk hingga mengental, diamkan hingga hangat. \n
+4. Siapkan plastik lalu potong ujungnya, masukkan adonan untuk dicetak, ulangi hingga adonan habis, sisihkan. \n
+5. Siapkan panci, santan, air dan sedikit garam, panaskan dan aduk hingga mendidih, sisihkan. \n
+6. Selanjutnya untuk gula cair, panaskan air tambahkan gula pasir dan gula merah tambahkan daun pandan aduk hingga mendidih, sisihkan. \n
+7. Siapkan gelas/mangkuk, masukkan dawet/cendol, santan, gula dan es batu. \n
+8. Es dawet siap disantap.
+    </string>
+
+    <string name="bajigur">
+        Bahan-Bahan : \n
+- 1/2 butir kelapa parut diperas jadikan 1 liter santan \n
+- 100 gram gula merah \n
+- 1 buah jahe ukuran besar, bakar lalu geprek \n
+- 1 ruas kayu manis \n
+- 2 sdt kopi bubuk \n
+- 1 sdt garam \n
+- 2-4 sdm gula pasir \n
+- 2 lembar daun Pandan ikat \n\n
+
+Cara Membuat : \n
+1. Rebus santan bersama gula merah, jahe, kayu manis dan daun Pandan hingga setengah mendidih sambil terus diaduk aduk. \n
+2. Masukkan garam, gula pasir, dan kopi bubuk, aduk aduk terus hingga mendidih. \n
+3. Angkat dan sajikan.
+    </string>
+
+    <string name="rempah">
+        Bahan-Bahan : \n
+- 3 batang sereh besar \n
+- 4 ruas jahe \n
+- 5 cengkeh  \n
+- 5 daun jeruk purut \n
+- 2 ruas kayu manis \n
+- gula batu secukupnya \n
+- 700 ml air \n\n
+
+Cara Membuat : \n
+1. Cuci semua bahan sampai bersih. \n
+2. Geprek jahe dan sereh, sobek-sobek daun jeruk. \n
+3. Masukan semua bahan dalam panci kecuali gula batu. \n
+4. Rebus sampai mendidih dan matikan, baru masukan gula batu.
+5. Siap disajikan
+    </string>
+
+    <string name="BahanMinuman">
+        <b>Bahan Utama dalam Resep Minuman \n\n</b>
+    1. Gula \n
+    2. Kayu Manis \n
+    3. Air
+    </string>
+
+    <string name="BahanMakanan">
+        <b>Bahan Utama dalam Resep Makanan \n\n</b>
+    1. Bawang Merah \n
+    2. Bawang Putih \n
+    3. Garam \n
+    4. Terasi \n
+    5. Cabai
+    </string>
+
+    <string name="About">
+        <b>About ResepKuy \n\n</b>
+    Aplikasi ini dibuat untuk membantu dalam membuat masakan baik itu Makanan ataupun Minuman \n
+    Selain itu aplikasi ini dibuat juga untuk memenuhi tugas UAS Pemograman Mobile 2020 \n\n
+    POLITEKNIK NEGERI MALANG</string>
+
+</resources>
